@@ -2,10 +2,19 @@ language: java
 sudo: false # faster builds
 
 jdk:
-  - oraclejdk8
+  - openjdk8
+
+cache:
+  directories:
+    - $HOME/.m2
+
+install: true
 
 script:
-  - mvn clean package
+  - travis_wait 30 ./mvnw --quiet clean install -DskipTests=false -Dcheckstyle.skip=false -Drat.skip=false -Dmaven.javadoc.skip=true
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+
+after_failure:
+  - if [ -f paper.log ]; then echo "------TAIL of paper.log------"; tail -n 1000 paper.log; echo "------END of paper.log------"; fi

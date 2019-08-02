@@ -1,6 +1,6 @@
 ## Paper Annotation Interface Invoker
 
-[![Build Status](https://travis-ci.org/apache/dubbo.svg?branch=master)](https://travis-ci.org/apache/dubbo)
+[![Build Status](https://travis-ci.org/bearDream/paper.svg?branch=master)](https://travis-ci.org/bearDream/paper)
 
 ***
 
