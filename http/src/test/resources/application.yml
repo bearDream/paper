@@ -1,0 +1,11 @@
+app:
+  server:
+    root: http://www.kuaidi100.com
+  config:
+    APP_ID: wx8e08cc0cbb40168c
+    SECRET: fff1dce54ec258f86ce9c6f15714d6fe
+    CALLBACK_URL: http://www.kuaidi100.com/call
+    AUTHORIZE_URL: http://www.kuaidi100.com/auth
+    LOGIN_URL: http://www.kuaidi100.com/login
+server:
+  port: 8081
