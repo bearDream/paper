@@ -1,4 +1,7 @@
-#Paper Annotation Interface Invoker
+## Paper Annotation Interface Invoker
+
+[![Build Status](https://travis-ci.org/apache/dubbo.svg?branch=master)](https://travis-ci.org/apache/dubbo)
+
 ***
 
 1. The usage of http annotation interface  
