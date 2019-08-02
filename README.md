@@ -1,7 +1,7 @@
 ## Paper Annotation Interface Invoker
 
 [![Build Status](https://travis-ci.org/bearDream/paper.svg?branch=master)](https://travis-ci.org/bearDream/paper)
-[![codecov](https://codecov.io/gh/apache/dubbo/branch/master/graph/badge.svg)](https://codecov.io/gh/apache/dubbo)
+[![codecov](https://codecov.io/gh/bearDream/paper/branch/master/graph/badge.svg)](https://codecov.io/gh/bearDream/paper)
 
 ***
 
