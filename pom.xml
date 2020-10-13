@@ -33,7 +33,7 @@
         <!-- util -->
         <fastjson_version>1.2.38</fastjson_version>
         <maven-gpg-plugin.version>1.5</maven-gpg-plugin.version>
-        <junit_version>4.12</junit_version>
+        <junit_version>4.13.1</junit_version>
         <lombok_version>1.18.6</lombok_version>
         <google-collections_version>1.0</google-collections_version>
         <sourceEncoding>UTF-8</sourceEncoding>
