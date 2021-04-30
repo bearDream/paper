@@ -21,7 +21,7 @@
         <spring-test.version>5.1.6.RELEASE</spring-test.version>
         <!-- common libs -->
         <!-- 3rd lib -->
-        <spring_version>5.1.6.RELEASE</spring_version>
+        <spring_version>5.1.18.RELEASE</spring_version>
         <okhttp_version>3.14.0</okhttp_version>
         <!-- common -->
         <javassist_version>3.20.0-GA</javassist_version>
